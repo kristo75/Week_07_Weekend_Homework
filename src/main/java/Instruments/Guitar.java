@@ -22,8 +22,5 @@ public class Guitar extends Instrument implements IPlayable {
         return "Strum";
     }
 
-    @Override
-    public double MarkUp() {
-        return 0;
-    }
+
 }

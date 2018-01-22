@@ -22,9 +22,5 @@ public class Piano extends Instrument implements IPlayable {
         return null;
     }
 
-    @Override
-    public double MarkUp() {
 
-        return 0;
-    }
 }

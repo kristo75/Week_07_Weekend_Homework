@@ -31,7 +31,7 @@ public class Accessories extends Shop implements ISellable {
 
 
     @Override
-    public double MarkUp() {
+    public double getMarkUp() {
         return 0;
     }
 

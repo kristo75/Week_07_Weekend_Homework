@@ -57,5 +57,7 @@ public abstract class Instrument implements IPlayable, ISellable{
         double markUp = (this.sellPrice - this.buyPrice);
         return markUp;
     }
+
+
 }
 
